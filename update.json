@@ -1,3 +1,6 @@
-- İlk sürüm yayınlandı.
-- Performans iyileştirmeleri.
-- AI Studio kararlı sürümü.
+{
+  "versionCode": 2,
+  "versionName": "1.0.1",
+  "message": "Yeni AI Studio güncellemesi mevcut.",
+  "apkUrl": "https://github.com/ekber496-ops/ai-studio-update/releases/latest/download/app-release.apk"
+}
