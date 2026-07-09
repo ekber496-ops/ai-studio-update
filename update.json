@@ -1,6 +1,6 @@
 {
   "version": "1.0.3",
   "versionCode": 4,
-  "message": "Yeni güncelleme hazır.",
-  "apkUrl": build/app/outputs/flutter-apk/app-release.apk
+  "message": "AI Studio için yeni güncelleme hazır.",
+  "apkUrl": "https://github.com/ekber496-ops/ai-studio-update/releases/download/v1.0.3/app-release.apk"
 }
